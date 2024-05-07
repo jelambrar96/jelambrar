@@ -3,34 +3,34 @@
 <h2 align="center">Software Developer and Data Engineer</h2>
 
 </div>
-<img src="media/portada1.jpg">
+<img src="https://github.com/jelambrar96/jelambrar96/blob/master/media/portada1.jpg">
 </br>
 
 ## Contact me
 
 <!-- linkedin-->
-<a href="https://www.linkedin.com/in/jorge-lambra%C3%B1o-a64662157/"><img align="left" src="media/icons/linkedin.png" alt="Jorge Lambraño | LinkedIn" width="24px" height="24px"/></a>
+<a href="https://www.linkedin.com/in/jorge-lambra%C3%B1o-a64662157/"><img align="left" src="https://github.com/jelambrar96/jelambrar96/blob/master/media/icons/linkedin.png" alt="Jorge Lambraño | LinkedIn" width="24px" height="24px"/></a>
 
 <!-- instagram-->
-<a href="https://www.instagram.com/jelambrar"><img align="left" src="media/icons/instagram.png" alt="Jorge Lambraño | Instagram" width="24px" height="24px"/></a>
+<a href="https://www.instagram.com/jelambrar"><img align="left" src="https://github.com/jelambrar96/jelambrar96/blob/master/media/icons/instagram.png" alt="Jorge Lambraño | Instagram" width="24px" height="24px"/></a>
 
 <!-- github -->
-<a href="https://github.com/jelambrar96"><img align="left" src="media/icons/github.png" alt="Jorge Lambraño | Github" width="24px" height="24px"/></a>
+<a href="https://github.com/jelambrar96"><img align="left" src="https://github.com/jelambrar96/jelambrar96/blob/master/media/icons/github.png" alt="Jorge Lambraño | Github" width="24px" height="24px"/></a>
 
 <!-- gitlab -->
-<a href="https://gitlab.com/jelambrar/"><img align="left" src="media/icons/gitlab.png" alt="Jorge Lambraño | Gitlab" width="24px" height="24px"/></a>
+<a href="https://gitlab.com/jelambrar/"><img align="left" src="https://github.com/jelambrar96/jelambrar96/blob/master/media/icons/gitlab.png" alt="Jorge Lambraño | Gitlab" width="24px" height="24px"/></a>
 
 <!-- medium-->
-<a href="https://medium.com/@jelambrar/"><img align="left" src="media/icons/medium.png" alt="Jorge Lambraño | Medium" width="24px" height="24px"/></a>
+<a href="https://medium.com/@jelambrar/"><img align="left" src="https://github.com/jelambrar96/jelambrar96/blob/master/media/icons/medium.png" alt="Jorge Lambraño | Medium" width="24px" height="24px"/></a>
 
 <!-- correo -->
-<a href="jelambrar@gmail.com"><img align="left" src="media/icons/gmail.png" alt="Jorge Lambraño | e-mail" width="24px" height="24px"/></a>
+<a href="jelambrar@gmail.com"><img align="left" src="https://github.com/jelambrar96/jelambrar96/blob/master/media/icons/gmail.png" alt="Jorge Lambraño | e-mail" width="24px" height="24px"/></a>
 
 <!-- cv -->
-<a href="https://jelambrar-folio.netlify.app/"><img align="left" src="media/icons/suitcase.png" alt="Jorge Lambraño | Folio" width="24px" height="24px"/></a>
+<a href="https://jelambrar-folio.netlify.app/"><img align="left" src="https://github.com/jelambrar96/jelambrar96/blob/master/media/icons/suitcase.png" alt="Jorge Lambraño | Folio" width="24px" height="24px"/></a>
 
 <!-- portfolio -->
-<a href="https://github.com/jelambrar96/resumes/blob/master/markdown/jelambrar.pdf/"><img align="left" src="media/icons/curriculum-vitae.png" alt="Jorge Lambraño | CV" width="24px" height="24px"/></a>
+<a href="https://github.com/jelambrar96/resumes/blob/master/markdown/jelambrar.pdf/"><img align="left" src="https://github.com/jelambrar96/jelambrar96/blob/master/media/icons/curriculum-vitae.png" alt="Jorge Lambraño | CV" width="24px" height="24px"/></a>
 
 </br>
 
