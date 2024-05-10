@@ -1,6 +1,5 @@
 <div align="center">
-<h1 align="center">Hi, I am <a href="https://jelambrar-folio.netlify.app/">Jelambrar96</a> 👋</h1>
-<h2 align="center">Software Developer and Data Engineer</h2>
+<h1 align="center">Hi, I am <a href="https://jelambrar-folio.netlify.app/">jelambrar96</a> 👋</h1>
 
 </div>
 <img src="https://github.com/jelambrar96/jelambrar96/blob/master/media/portada.png">
