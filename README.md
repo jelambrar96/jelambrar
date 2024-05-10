@@ -3,7 +3,7 @@
 <h2 align="center">Software Developer and Data Engineer</h2>
 
 </div>
-<img src="https://github.com/jelambrar96/jelambrar96/blob/master/media/portada1.jpg">
+<img src="https://github.com/jelambrar96/jelambrar96/blob/master/media/portada.png">
 </br>
 
 ## Contact me
